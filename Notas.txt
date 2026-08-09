@@ -1,0 +1,8 @@
+mkdir Crear directorio (carpeta)
+cd Moverme entre directorio
+    cd .. Atras
+ls Listar contenido
+cat leer documento
+code abre la app VsCode
+clear limpia
+mv mover archivo "mv NombreDeCarpetaOArchivoAMover NombreDeCarpetaDestino"
